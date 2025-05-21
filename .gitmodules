@@ -1,0 +1,14 @@
+[submodule "src/px4-mpc"]
+  path = src/px4-mpc
+  url  = https://github.com/shilpitha-03/px4-mpc.git
+  branch = feature/px4-edited
+
+[submodule "src/px4-offboard"]
+  path = src/px4-offboard
+  url  = https://github.com/shilpitha-03/px4-offboard.git
+  branch = feature/px4-edited
+
+[submodule "src/px4_msgs"]
+  path = src/px4_msgs
+  url  = https://github.com/PX4/PX4-Autopilot.git
+  branch = main
