@@ -10,5 +10,5 @@
 
 [submodule "src/px4_msgs"]
   path = src/px4_msgs
-  url  = https://github.com/PX4/PX4-Autopilot.git
+  url  = https://github.com/shilpitha-03/px4_msgs.git
   branch = main
