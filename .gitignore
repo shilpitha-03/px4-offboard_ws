@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+install/
+log/
+c_generated_code/
+
+# Other OS/editor cruft
+*.swp
+*.tmp
+.DS_Store
